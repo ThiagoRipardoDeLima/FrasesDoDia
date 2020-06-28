@@ -72,7 +72,7 @@ class _HomeState extends State<Home> {
                 ),
                 color: Colors.green,
                 onPressed: (){
-                  _gerarFrase;
+                  _gerarFrase();
                 },
               )
             ],
