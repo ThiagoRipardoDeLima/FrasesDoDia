@@ -6,4 +6,4 @@
 
 
 ## Implementation
-![Frases do dia](https://github.com/ThiagoRipardoDeLima/FrasesDoDia/blob/master/screens/frasesdodia.gif)
+    ![Frases do dia](https://github.com/ThiagoRipardoDeLima/FrasesDoDia/blob/master/screen/frasesdodia.gif)
