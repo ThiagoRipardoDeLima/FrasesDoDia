@@ -5,5 +5,5 @@
     Projeto desenvolvido como parte do curso de flutter de Jamilton Damasceno.
 
 
-## Implementation
+## Demonstração
 ![Frases do dia](https://github.com/ThiagoRipardoDeLima/FrasesDoDia/blob/master/screen/frasesdodia.gif)
